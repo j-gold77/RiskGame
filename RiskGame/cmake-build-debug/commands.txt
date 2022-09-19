@@ -1,0 +1,13 @@
+ines (10 sloc)  115 Bytes
+
+tester command
+loadmap
+validatemap
+not sure this one
+123321-=-=0][\';'\
+addplayer
+replay
+quit
+=-`=-`0=0-`=0=
+
+`-10`
